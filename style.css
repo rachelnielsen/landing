@@ -1,0 +1,60 @@
+#banner{
+	text-align: center;
+	background-image: url("https://images.unsplash.com/photo-1493673272479-a20888bcee10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+	background-size: cover;
+	height: 400px;
+	margin-bottom: 20px;
+}
+
+#title{
+	font-family: 'Julius Sans One', sans-serif;
+	color: white;
+	padding-top: 135px;
+}
+
+#tagline{
+	font-family: 'Julius Sans One', sans-serif;
+	color: white;
+}
+
+#footer{
+	font-size: 15px;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 25px;
+}
+
+body{
+	background-color: rgb(245,245,245);
+	font-size: 20px;
+	font-family: Helvetica
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: blink;
+	color: #3B96CC;
+}
+
+h1{
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 75px;
+	color: #1C8BCC;
+
+}
+
+h2{
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 26px;
+	font-weight: lighter;
+	color: #3B96CC;
+}
+
+p{
+	font-size: 17px;
+}
